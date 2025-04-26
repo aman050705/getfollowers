@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(27, 25, 25);
+    color: white;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    margin-top: 48px;
+}
+
+.STEP1{
+    text-align: center;
+}
+
+.STEP2{
+    text-align: center;
+}
+
+.STEP3{
+    text-align: center;
+}
+
+.btn{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 280px;
+}
+
+button{
+    width: 280px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: rgb(86, 211, 86);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: 3px solid white;
+    margin-top: 5px;
+
+    
+}
+
+H3{
+    text-align: center;
+    color: rgb(86, 211, 86);
+}
+
+H2{
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(86, 211, 86);
+}
+
+#btn{
+    color: rgb(86, 211, 86);
+    text-align: center;
+    font-weight: bold;
+}
+span{
+    color: rgb(86, 211, 86);   
+}
+
+P{
+    text-align: center;
+    font-weight: bold;
+}
